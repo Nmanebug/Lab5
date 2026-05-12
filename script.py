@@ -1,1 +1,1 @@
-print("Salut, GitHub Actions extins!")
+print("CI/CD works correctly!")
